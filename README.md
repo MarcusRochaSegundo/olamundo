@@ -1,2 +1,2 @@
 # olamundo
- aprendendo
+ aprendendo a programar.
